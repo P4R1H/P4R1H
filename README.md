@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Parth</h1>
-<h3 align="center">A driven, curious and passioniate developer</h3>
+<h3 align="center">A driven, curious and passionate developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p4r1h&label=Profile%20views&color=0e75b6&style=flat" alt="p4r1h" /> </p>
 
