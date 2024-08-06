@@ -41,11 +41,11 @@
 ### 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" alt="Project 1">
+  <a href="https://github.com/P4R1H/sudoku-solver">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=P4R1H&repo=sudoku-solver&theme=radical" alt="Sudoku Solver">
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" alt="Project 2">
+  <a href="https://github.com/P4R1H/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=P4R1H&repo=project2&theme=radical" alt="Project 2">
   </a>
 </p>
 
