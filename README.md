@@ -22,7 +22,6 @@
 ---
 
 ### 🛠️ Tech Arsenal
-
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -34,21 +33,11 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
 </p>
-
----
-
-### 🌟 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/P4R1H/sudoku-solver">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=P4R1H&repo=sudoku-solver&theme=radical" alt="Sudoku Solver">
-  </a>
-  <a href="https://github.com/P4R1H/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=P4R1H&repo=project2&theme=radical" alt="Project 2">
-  </a>
-</p>
-
 ---
 
 ### 🤝 Let's Connect!
