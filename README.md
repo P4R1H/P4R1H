@@ -14,7 +14,6 @@
 
 ###  About Me
 
-- 🔭 Currently crafting: **My profile website**
 - 🧠 Deep diving into: **DSA & Algorithms**
 - 🤖 Exploring: **Machine learning**
 - 💡 Philosophy: "The world is always in a state of flux. Ride along with the change."
@@ -38,6 +37,7 @@
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
 </p>
+
 ---
 
 ### 🤝 Let's Connect!
@@ -55,3 +55,4 @@
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces">
   </a>
 </p>
+
