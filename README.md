@@ -1,3 +1,9 @@
+
+
+<div align="center">
+  Learn → Grid misaligns → OCD kicks in → Learn more to align grid → Repeat
+</div>
+
 <div align="center">
   <table>
     <tr>
