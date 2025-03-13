@@ -33,7 +33,6 @@
     </tr>
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></td>
     </tr>
 
   </table>
