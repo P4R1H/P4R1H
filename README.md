@@ -1,10 +1,4 @@
 <div align="center">
-  I Build.
-</div>
-<divider>
-  
-</divider>
-<div align="center">
   <table>
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></td>
