@@ -31,6 +31,11 @@
       <td align="center"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></td>
     </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></td>
+    </tr>
+
   </table>
 </div>
 
