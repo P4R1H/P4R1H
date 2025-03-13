@@ -33,6 +33,10 @@
     </tr>
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></td>
     </tr>
 
   </table>
