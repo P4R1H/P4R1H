@@ -46,6 +46,8 @@
       <td align="center"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></td>
+
     </tr>
 
   </table>
