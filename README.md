@@ -2,7 +2,7 @@
 - **Google H4C Finalist** (Top 0.002%), **Smart India Hackathon Semi Finalist**
 - **Amazon MLSS25**
 - **Internships:** HPE, Ecom Express, Conscent.AI
-- **GSSOC24, Hacktoberfest 34**
+- **GSSOC24, Hacktoberfest24**
 - **Recommendations** from HP & Opera GX due to excellent development & leadership work
 - **AWS, Kaggle, Postman Certified**
 - **StockPiece:** 150K+ users, 8mil requests handled during peak month (Currently paused due to placements)
