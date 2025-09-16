@@ -6,7 +6,7 @@
 - **Specialist** @ CodeForces, **3 ⭐** @ CodeChef
 - **Recommendations** from HP & Opera GX due to excellent development & leadership work
 - **AWS, Kaggle, Postman Certified**
-- **StockPiece:** 150K+ users, 8mil requests handled during peak month (Currently paused due to placements)
+- **StockPiece:** 140K+ users, 8mil requests handled during peak month (Currently paused due to placements)
 - **Reddit Bots:** Moderating r/dankmemes (6mil subs), r/shitposting (1mil subs) & r/holup (4mil subs)
 - **Discord Bots:** Moderating HP OMEN (12K members), dankmemes (15K members)
 - **Freelance:** Lander + Management platform for Persona Essential (200K$ ARR)
