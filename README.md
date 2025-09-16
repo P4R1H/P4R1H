@@ -1,13 +1,26 @@
+### Highlights
+- **Google H4C Finalist** (Top 0.002%), **Smart India Hackathon Semi Finalist**
+- **Amazon MLSS25**
+- **Internships:** HPE, Ecom Express, Conscent.AI
+- **GSSOC24, Hacktoberfest 34**
+- **Recommendations** from HP & Opera GX due to excellent development & leadership work
+- **AWS, Kaggle, Postman Certified**
+- **StockPiece:** 150K+ users, 8mil requests handled during peak month (Currently paused due to placements)
+- **Reddit Bots:** Moderating r/dankmemes (6mil subs), r/shitposting (1mil subs) & r/holup (4mil subs)
+- **Discord Bots:** Moderating HP OMEN (12K members), dankmemes (15K members)
+- **Freelance:** Lander + Management platform for Persona Essential (200K$ ARR)
 
-<div align="center">
-  Learn → Grid misaligns → OCD kicks in → Learn more to align grid → Repeat
-</div>
+**I build applications that scale across Web, Mobile & Cloud.**  
+**I never stop learning. You will see more in the grid next time you come here.**
 
+**More about me:** [parthg.tech](https://parthg.tech) | **Connect:** [linkedin/P4R1H](https://linkedin.com/in/P4R1H)
+
+*I mainly used replit over GitHub before 2023, you can find more of my projects [there](https://replit.com/@Sept1c)*
 <div>
   &nbsp;
 </div>
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <!-- Programming Languages -->
@@ -60,9 +73,5 @@
   &nbsp;
 </div>
 
-<div align="center">
-  I mainly used replit over GitHub before 2023, you can find more of my projects
-  <a href="https://replit.com/@Sept1c" target="_blank" rel="noopener noreferrer">there</a>
-</div>
 
 
