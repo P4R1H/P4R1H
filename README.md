@@ -3,6 +3,7 @@
 - **Amazon MLSS25**
 - **Internships:** HPE, Ecom Express, Conscent.AI
 - **GSSOC24, Hacktoberfest24**
+- **Specialist** @ CodeForces, **3 ⭐** @ CodeChef
 - **Recommendations** from HP & Opera GX due to excellent development & leadership work
 - **AWS, Kaggle, Postman Certified**
 - **StockPiece:** 150K+ users, 8mil requests handled during peak month (Currently paused due to placements)
