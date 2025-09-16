@@ -1,3 +1,4 @@
+
 <div align="center">
   Learn → Grid misaligns → OCD kicks in → Learn more to align grid → Repeat
 </div>
@@ -54,3 +55,10 @@
     </tr>
   </table>
 </div>
+
+<div align="center">
+  PS: I mainly used replit over GitHub before 2023, Most of my public builds before then is over 
+  <a href="https://replit.com/@Sept1c" target="_blank" rel="noopener noreferrer">there</a>
+</div>
+
+
