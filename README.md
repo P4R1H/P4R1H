@@ -56,8 +56,12 @@
   </table>
 </div>
 
-<div align="center">
-  PS: I mainly used replit over GitHub before 2023, Most of my public builds before then is over 
+<div>
+  &nbsp;
+</div>
+
+<div align="left">
+  I mainly used replit over GitHub before 2023, you can find more of my projects
   <a href="https://replit.com/@Sept1c" target="_blank" rel="noopener noreferrer">there</a>
 </div>
 
