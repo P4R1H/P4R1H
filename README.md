@@ -1,7 +1,7 @@
 ### Highlights
 - **Google H4C Finalist** (Top 0.002%), **Smart India Hackathon Semi Finalist**
 - **Amazon MLSS25**
-- **Internships:** HPE, Ecom Express, Conscent.AI
+- **Internships:** CRED, HPE, Ecom Express, Conscent.AI
 - **GSSOC24, Hacktoberfest24**
 - **Specialist** @ CodeForces, **3 ⭐** @ CodeChef
 - **Recommendations** from HP & Opera GX due to excellent development & leadership work
