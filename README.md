@@ -4,12 +4,13 @@
 - **Internships:** CRED, HPE, Ecom Express, Conscent.AI
 - **GSSOC24, Hacktoberfest24**
 - **Specialist** @ CodeForces, **3 ⭐** @ CodeChef
-- **Recommendations** from HP & Opera GX due to excellent development & leadership work
+- **Recommendations** from HP & Opera GX for excellent development & leadership work
 - **AWS, Kaggle, Postman Certified**
-- **StockPiece:** 140K+ users, 8mil requests handled during peak month (Currently paused due to placements)
+- **StockPiece:** 140K+ users, 8mil requests handled during peak month (Currently paused due to commitments)
 - **Community Automation:** Moderation and queue tooling for large communities totalling 11M+ subscribers
 - **Discord Bots:** HP OMEN (12K members) and a 15K-member creator community
-- **Freelance:** Lander + Management platform for Stealth startup (200K$ ARR)
+- **Freelance:** Lander + Management platform for Stealth startup (300K$ ARR), other small places
+- **CTFs:** Won several CTFs, Lead organizer & developer for "Puzzle", a global CTF with 1.5k+ participants.
 - **Research:** Parallel Heuristic Semantic Walk on Large Knowledge Graphs with Text Embeddings (IEEE MCSoC 2025)
 
 **I build applications that scale across Web, Mobile & Cloud.**  
