@@ -4,12 +4,13 @@
 - **Internships:** CRED, HPE, Ecom Express, Conscent.AI
 - **GSSOC24, Hacktoberfest24**
 - **Specialist** @ CodeForces, **3 ⭐** @ CodeChef
-- **Recommendations** from HP & Opera GX due to excellent development & leadership work
+- **Recommendations** from HP & Opera GX for excellent development & leadership work
 - **AWS, Kaggle, Postman Certified**
-- **StockPiece:** 140K+ users, 8mil requests handled during peak month (Currently paused due to placements)
-- **Reddit Bots:** Moderating r/dankmemes (6mil subs), r/shitposting (1mil subs) & r/holup (4mil subs)
-- **Discord Bots:** Moderating HP OMEN (12K members), dankmemes (15K members)
-- **Freelance:** Lander + Management platform for Persona Essential (200K$ ARR)
+- **StockPiece:** 140K+ users, 8mil requests handled during peak month (Currently paused due to commitments)
+- **Reddit Bots:** Automating r/dankmemes (6mil subs), r/shitposting (1mil subs) & r/holup (4mil subs)
+- **Discord Bots:** Automating HP OMEN (12K members), dankmemes (15K members)
+- **Freelance:** Lander + Management platform for Persona Essential (300K$ ARR), other small places
+- **CTFs:** Won several CTFs, Lead organizer & developer for "Puzzle", a global CTF with 1.5k+ participants.
 - **Research:** Parallel Heuristic Semantic Walk on Large Knowledge Graphs with Text Embeddings (IEEE MCSoC 2025)
 
 **I build applications that scale across Web, Mobile & Cloud.**  
