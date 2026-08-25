@@ -13,9 +13,6 @@
 - **CTFs:** Won several CTFs, Lead organizer & developer for "Puzzle", a global CTF with 1.5k+ participants.
 - **Research:** Parallel Heuristic Semantic Walk on Large Knowledge Graphs with Text Embeddings (IEEE MCSoC 2025)
 
-**I build applications that scale across Web, Mobile & Cloud.**  
-**I never stop learning. You will see more in the grid next time you come here.**
-
 **More about me:** [parthg.tech](https://parthg.tech) | **Connect:** [linkedin/P4R1H](https://linkedin.com/in/P4R1H)
 
 *I mainly used replit over GitHub before 2023, have quite a bit more stuff over there*
