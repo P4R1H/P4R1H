@@ -9,7 +9,7 @@
 - **StockPiece:** 140K+ users, 8mil requests handled during peak month (Currently paused due to commitments)
 - **Reddit Bots:** Automating r/dankmemes (6mil subs), r/shitposting (1mil subs) & r/holup (4mil subs)
 - **Discord Bots:** Automating HP OMEN (12K members), dankmemes (15K members)
-- **Freelance:** Lander + Management platform for Persona Essential (300K$ ARR), other small places
+- **Freelance:** Lander + Management platform for Stealth startup (300K$ ARR), other small places
 - **CTFs:** Won several CTFs, Lead organizer & developer for "Puzzle", a global CTF with 1.5k+ participants.
 - **Research:** Parallel Heuristic Semantic Walk on Large Knowledge Graphs with Text Embeddings (IEEE MCSoC 2025)
 
