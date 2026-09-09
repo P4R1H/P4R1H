@@ -7,7 +7,7 @@
 - **Recommendations** from HP & Opera GX for excellent development & leadership work
 - **AWS, Kaggle, Postman Certified**
 - **StockPiece:** 140K+ users, 8mil requests handled during peak month (Currently paused due to commitments)
-- **Community Automation:** Moderation and queue tooling for large communities totalling 30M+ subscribers
+- **Community Automation:** Moderation, quality and queue tooling for large communities totalling 30M+ subscribers
 - **Discord Bots:** HP OMEN (12K members) and a communities with a total of 30k+ members.
 - **Freelance:** Lander + Management platform for Stealth startup (300K$ ARR), other small places
 - **CTFs:** Won several CTFs, Lead organizer & developer for "Puzzle", a global CTF with 1.5k+ participants.
