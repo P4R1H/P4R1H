@@ -7,15 +7,15 @@
 - **Recommendations** from HP & Opera GX for excellent development & leadership work
 - **AWS, Kaggle, Postman Certified**
 - **StockPiece:** 140K+ users, 8mil requests handled during peak month (Currently paused due to commitments)
-- **Community Automation:** Moderation and queue tooling for large communities totalling 11M+ subscribers
-- **Discord Bots:** HP OMEN (12K members) and a 15K-member creator community
+- **Community Automation:** Moderation and queue tooling for large communities totalling 30M+ subscribers
+- **Discord Bots:** HP OMEN (12K members) and a communities with a total of 30k+ members.
 - **Freelance:** Lander + Management platform for Stealth startup (300K$ ARR), other small places
 - **CTFs:** Won several CTFs, Lead organizer & developer for "Puzzle", a global CTF with 1.5k+ participants.
 - **Research:** Parallel Heuristic Semantic Walk on Large Knowledge Graphs with Text Embeddings (IEEE MCSoC 2025)
 
 **More about me:** [parthg.tech](https://parthg.tech) | **Connect:** [linkedin/P4R1H](https://linkedin.com/in/P4R1H)
 
-
+Primarily used Replit before 2020, have a lot of stuff there as well!
 
 <div>
   &nbsp;
