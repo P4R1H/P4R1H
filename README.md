@@ -1,6 +1,6 @@
 ### Highlights
 - **Google H4C Finalist** (Top 0.002%), **Smart India Hackathon Semi Finalist**
-- **Amazon MLSS25**
+- **Amazon MLSS25, YCSS**
 - **Internships:** CRED, HPE, Ecom Express, Conscent.AI
 - **GSSOC24, Hacktoberfest24**
 - **Specialist** @ CodeForces, **3 ⭐** @ CodeChef
