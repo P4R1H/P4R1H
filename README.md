@@ -19,7 +19,7 @@ I sometimes do other stuff
 
 **More about me:** [parthg.tech](https://parthg.tech) | **Connect:** [linkedin/P4R1H](https://linkedin.com/in/P4R1H)
 
-Primarily used Replit before 2020, have a lot of stuff there as well! Hope you like my stuff.
+Primarily used Replit before 2020, have a lot of stuff there as well! 
 
 <div>
   &nbsp;
