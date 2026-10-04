@@ -8,7 +8,7 @@ I build stuff
 - **Freelance:** Lander + Management platform for Stealth startup (300K$ ARR), other small places
 
 I break stuff
-- **CTFs:** Won several CTFs, Lead organizer & developer for "Puzzle", a global CTF with 1.5k+ participants.
+- **CTFs:** Won several CTFs, Lead organizer & developer for "Puzzled", a global CTF with 1.5k+ participants.
 - **GSSOC24, Hacktoberfest24**
 
 I sometimes do other stuff
